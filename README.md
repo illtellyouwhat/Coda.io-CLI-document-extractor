@@ -4,7 +4,7 @@ Command-line workflow for mirroring a Coda doc into a deterministic file tree th
 
 ## TLDR
 1) Run the export tool
-2) Drop LLM/sys into Output dir root.
+2) Drop docs/LLM/sys_files into Output dir root.
 3) Set Output Dir as root or copy to new folder
 3) Tell LLM to read instructions.md
 4) Ask away
